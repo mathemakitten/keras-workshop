@@ -11,7 +11,7 @@ To follow along with this workshop, you should install the following:
 
 ## Installation
 
-If you haven't installed Python 3 already, I would highly recommend installing via the [Anaconda package manager][anaconda]. 
+If you haven't installed Python 3 already, I would highly recommend installing via Anaconda: https://www.anaconda.com/download/
 
 If you have already installed Python 3, you can just install the following libraries: 
 
@@ -32,4 +32,4 @@ Try testing your Keras installation by running `import keras`. You should see th
     Using TensorFlow backend.
 For this workshop, you can get the notebooks by running the following from Git: 
 
-`git clone 
+`git clone git@github.com:mathemakitten/keras-workshop.git`
