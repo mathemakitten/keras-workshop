@@ -21,7 +21,13 @@ https://github.com/mathemakitten/keras-workshop
 
 Google's Colaboratory initiative to allows everyone to run machine learning in the cloud. Anyone can launch a Python notebook in their web browser, complete with scientific computing packages.
 
-[insert link to Colab notebooks here]
+**Notebook 1 - Teaching a Neural Network Addition**
+
+https://drive.google.com/file/d/1PwMj7Fqe3TCd0-gVdusRttbkfAfmWu1w/view?usp=sharing
+
+**Notebook 2 - Classifying Very Small Images**
+
+https://drive.google.com/file/d/1FdavFOQewKD-YZvCPHMcWzhmBqOwmFBa/view?usp=sharing
 
 1. The screen will prompt you to open this with Colaboratory 
 2. File >> Save a copy in Google Drive 
